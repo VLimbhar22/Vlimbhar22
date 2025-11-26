@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I’m Vedant — a Data Engineer and AI enthusiast who loves turning messy data into useful insights. I recently completed my Master’s in Data Analytics Engineering with a 4.0 GPA, and since then I’ve been building pipelines, working with cloud platforms, and exploring how LLMs can make information easier to understand.
+I’m Vedant - a Data Engineer and AI enthusiast who loves turning messy data into useful insights. I recently completed my Master’s in Data Analytics Engineering with a 4.0 GPA, and since then I’ve been building pipelines, working with cloud platforms, and exploring how LLMs can make information easier to understand.
 
 I’ve built both batch and streaming pipelines that process terabytes of data, helping analysts and ML engineers work with clean, reliable datasets so they can focus on what actually matters. I’ve worked across AWS, Azure, Snowflake, Databricks, Neo4j, and more. I like to keep things practical, and I’m always looking for ways to automate repetitive or boring tasks (house chores count too).
 
-I’m someone who learns by building. Whether I’m writing ETL jobs, optimizing pipelines, or experimenting with new models, I love understanding how things work under the hood and breaking down complex ideas into simple explanations. I thrive in team environments and naturally step into leadership roles when needed. A small secret: I’m surprisingly good at presenting ideas — it’s my hidden superpower.
+I’m someone who learns by building. Whether I’m writing ETL jobs, optimizing pipelines, or experimenting with new models, I love understanding how things work under the hood and breaking down complex ideas into simple explanations. I thrive in team environments and naturally step into leadership roles when needed. A small secret: I’m surprisingly good at presenting ideas, it’s my hidden superpower.
 
 If you enjoy data, AI, or just tinkering with new tech, feel free to connect. Always happy to chat, share ideas, or collaborate on something fun.
 
