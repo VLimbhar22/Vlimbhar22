@@ -8,7 +8,7 @@ I’m someone who learns by building. Whether I’m writing ETL jobs, optimizing
 
 If you enjoy data, AI, or just tinkering with new tech, feel free to connect. Always happy to chat, share ideas, or collaborate on something fun.
 
-📫 Reach me at **vedantlimbhare22@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/vedantlimbhare)**
+📫 Reach me at **vedantlimbhare22@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/vedant-limbhare/)**
 
 ---
 
